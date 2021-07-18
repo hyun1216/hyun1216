@@ -22,6 +22,9 @@
 
   
 <p align='center'> Come on, let me tell you about me! </p>
+
+[![Gmail Badge](https://img.shields.io/badge/-dnlwlsl10@naver.com-2E51A2?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:dnlwlsl10@naver.com)](mailto:dnlwlsl10@naver.com)
+
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
     <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
