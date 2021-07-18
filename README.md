@@ -27,18 +27,14 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
 
 
+
 ###### <p align='center'> :raising_hand: 나의 이메일 :raising_hand: </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-dnlwlsl10@naver.com-2E51A2?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:dnlwlsl10@naver.com)](mailto:dnlwlsl10@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/-dnlwlsl10@naver.com-92A8D1?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:dnlwlsl10@naver.com)](mailto:dnlwlsl10@naver.com)
 
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#Mail">
-    <img src="https://img.shields.io/badge/Mail%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white&link=mailto:dnlwlsl10@naver.com"/>
-  </a>
-</p>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=tinder.svg&icon_color=%23F7CAC9&title=hello&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 
