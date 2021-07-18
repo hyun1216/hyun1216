@@ -1,10 +1,15 @@
 <div align="center">
 
-## HYUN <a id="hyun">
+## HELLO! HYUN WORLD <a id="hyun">
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=HYUN!&fontAlign=80&fontAlignY=40&color=gradient)
   
+
+  저는 1998년생의 젊지만 어리지 않은 개발자를 꿈꾸는 사람입니다.:hatching_chick:<br>
+  아직은 한 발짝 내디딘 것이지만 앞으로 채워져나갈 이 공간 안에서 :hatched_chick: <br>
+  저의 가능성을 보여드리고자 합니다.:chicken:
   
-## 📅 Ability
+  
+## :cherries:  Ability :cherries:
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -19,9 +24,10 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSSWizardry&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
 
-  
-<p align='center'> Come on, let me tell you about me! </p>
+
+###### <p align='center'> :raising_hand: 나의 이메일 :raising_hand: </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-dnlwlsl10@naver.com-2E51A2?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:dnlwlsl10@naver.com)](mailto:dnlwlsl10@naver.com)
 
@@ -33,3 +39,5 @@
     <img src="https://img.shields.io/badge/Mail%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white&link=mailto:dnlwlsl10@naver.com"/>
   </a>
 </p>
+
+
