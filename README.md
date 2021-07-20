@@ -41,8 +41,7 @@ https://github.com/hyun1216/skintalkboard <br>
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=tinder.svg&icon_color=%23F7CAC9&title=hello&edge_flat=true)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun1216%2Fhyun1216&count_bg=%2392A8D1&title_bg=%23F7CAC9&icon=tinder.svg&icon_color=%23FFFFFF&title=HELLO&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 
