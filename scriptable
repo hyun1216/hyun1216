@@ -1,0 +1,17 @@
+/* scriptable 어플을 통한 위젯제작
+* Made by @hyun1216
+* mail : dnlwlsl10@naver.com
+* 2021-07-21
+*/
+
+// op.gg 소환사명 json URL
+// 본인의 소환사명 검색 후 주소 https://msg.soledot.com/shortenurl/fo/shortenurladd.sd 에 넣어 간편변환 후 아래의 URL '' 사이에 넣기
+cont API__URL = 'https://me2.do/FvnP0uZE'
+// JSON REQUSET 
+const API__REQ = new Request(API__URL)
+// JSON LOAD
+const API__RES = await API__REQ.loadJSON()
+
+// 위젯 제목 부분
+const TEXT__TITLE = { default: `🔎OP.GG 소환사 전적검색🔍`, smallWidget: "🔎 전적 검색 🔍" }
+
