@@ -1,7 +1,7 @@
 <div align="center">
 
 ## HELLO! HYUN WORLD <a id="saebom">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=HYUN!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SAEBOM!&fontAlign=80&fontAlignY=40&color=gradient)
   
 
   저는 1998년생의 젊지만 어리지 않은 개발자를 꿈꾸는 노새봄입니다.:hatching_chick:<br>
